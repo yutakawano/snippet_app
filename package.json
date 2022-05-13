@@ -8,10 +8,6 @@
     "postinstall": "yarn build",
     "start": "node server.js"
   },
-  "engines": {
-    "node": "14.16.1",
-    "npm": "6.14.12"
-  },
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
     "@rails/activestorage": "^6.0.0",
