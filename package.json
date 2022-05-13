@@ -6,7 +6,11 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "postinstall": "yarn build",
-    "start": "server.js"
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "14.16.1",
+    "npm": "6.14.12"
   },
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
