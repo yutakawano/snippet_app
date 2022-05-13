@@ -1,0 +1,15 @@
+current directory: /Users/kawanoyuta/Documents/prog_practice/SnippetApp/snippet_app/vendor/cache/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/Users/kawanoyuta/.rbenv/versions/2.7.5/bin/ruby -I /Users/kawanoyuta/.rbenv/versions/2.7.5/lib/ruby/2.7.0 -r ./siteconf20220513-18214-1linvs8.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kawanoyuta/Documents/prog_practice/SnippetApp/snippet_app/vendor/cache/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/kawanoyuta/Documents/prog_practice/SnippetApp/snippet_app/vendor/cache/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/kawanoyuta/Documents/prog_practice/SnippetApp/snippet_app/vendor/cache/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20220513-18214-1e0ryiq
